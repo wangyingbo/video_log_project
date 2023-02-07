@@ -2,4 +2,4 @@
 
 `npm install`
 
-`DEBUG=video-log-project:* npm start`
+`DEBUG=video-log-project:* npm start >> /dev/null`
